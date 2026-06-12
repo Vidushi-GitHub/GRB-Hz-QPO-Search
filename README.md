@@ -6,7 +6,7 @@ Follows Caballero-García et al. (2024), Table 2 (Fermi/nb).
 ## Run
 
 ```bash
-git clone <your-repo-url>
+git clone <repo-url>
 cd <repo-name>
 
 pip install numpy scipy astropy matplotlib pandas ipywidgets jupyter stingray
